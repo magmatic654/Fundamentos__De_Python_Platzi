@@ -24,7 +24,7 @@ def winMessage():
     print('Has ganado')
 
 def loseMessage():
-    print(f'{computer_option} gana a {user_option}')
+    print(f'{user_option} pierde con {computer_option}')
     print('Has perdido')
 
 def drawMessage():
